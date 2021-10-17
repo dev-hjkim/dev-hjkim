@@ -1,5 +1,5 @@
 ### Hi there 👋  
-I'm a backend developer from South Korea  
+I'm a backend developer from South Korea:kr:  
   
 **About me**  
 
