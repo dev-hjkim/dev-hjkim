@@ -1,5 +1,6 @@
 ### Hi there 👋  
-I'm a backend developer from South Korea  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com){: .text-right }
+I'm a backend developer from South Korea
   
 **About me**  
 
