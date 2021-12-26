@@ -10,7 +10,7 @@ I'm a backend developer from South Korea
 
 - 🌱 I’m currently learning Spring(JAVA), Go, and Flutter. 
 
-- 💬 Ask me about anything here, guswlsapdlf@khu.ac.kr
+- 💬 Ask me about anything here, guswlsapdlf@gmail.com
 
 **Experience**  
   
