@@ -4,7 +4,8 @@ I'm a backend developer from South Korea
   
 **About me**  
 
-- 💼 Backend Developer at [Dozn](https://www.dozn.co.kr/)
+- 💼 Backend Developer at [Dozn](https://www.dozn.co.kr/)  
+(2020.08~2022.04)  
 
 - 🏫 Graduated Department of Software, Kyunghee University.
 
