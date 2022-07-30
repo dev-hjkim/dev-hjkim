@@ -7,8 +7,6 @@ I'm a backend developer from South Korea
 - 💼 Backend Developer at [Dozn](https://www.dozn.co.kr/)  
 (2020.08~2022.04)  
 
-- 🏫 Graduated Department of Software, Kyunghee University.
-
 - 🌱 I’m currently learning Spring(JAVA), Go, and Flutter. 
 
 - 💬 Ask me about anything here, guswlsapdlf@gmail.com
